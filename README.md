@@ -16,7 +16,7 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew2077&repo=github-readme-stats&&theme=radical) -->
 
 
-[![Top Langs](https://github-readme-stats-andrew2077.vercel.app/api/top-langs/?username=Andrew2077&layout=compact&&theme=radical)]
+[![Top Langs](https://github-readme-stats-git-master-andrew2077.vercel.app/api/top-langs/?username=Andrew2077&layout=compact&&theme=radical)]
 
 
 
