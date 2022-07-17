@@ -1,9 +1,9 @@
 <!-- ![Python](python.png) -->
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew2077&show_icons=true&theme=radical&hide=rs,issues,contribs)
+![Andrew's GitHub stats](https://github-readme-stats-zeta-plum.vercel.app/api?username=Andrew2077&show_icons=true&theme=radical&hide=rs,issues,contribs)
 
 
-![](https://github-readme-stats.vercel.app/api?username=Andrew2077&theme=radical&hide=rs,issues,contribs&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&)
+![](https://github-readme-stats-zeta-plum.vercel.app/api?username=Andrew2077&theme=radical&hide=rs,issues,contribs&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&)
 <br/>
 
 <!-- <img src="/Icons/numpy_logo_icon_168073.png" width="64" height="64" /> -->
