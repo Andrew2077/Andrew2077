@@ -1,5 +1,6 @@
 <!-- ![Python](python.png) -->
 
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew2077&show_icons=true&theme=radical&hide=rs,issues,contribs)
 
 
 <!-- <img src="/Icons/numpy_logo_icon_168073.png" width="64" height="64" /> -->
