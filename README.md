@@ -20,10 +20,9 @@ I'm a biomedical engineering student (undergraduate). <br>I'm currently learning
 <br>
 
 <a href="https://wakatime.com/share/@Andrew2077/ffaccd89-9a8f-4f9b-b8bd-9ecbe41f5102.svg">
-            <img width = 450 src="https://wakatime.com/share/@Andrew2077/ffaccd89-9a8f-4f9b-b8bd-9ecbe41f5102.svg">
-
+            <img width = 350 src="https://wakatime.com/share/@Andrew2077/ffaccd89-9a8f-4f9b-b8bd-9ecbe41f5102.svg">
 <a href="https://wakatime.com/share/@Andrew2077/a7e7e676-5d7c-4aa4-a516-682c1ddf7bdc.svg">
-            <img width = 450 src="https://wakatime.com/share/@Andrew2077/a7e7e676-5d7c-4aa4-a516-682c1ddf7bdc.svg">
+            <img width = 350 src="https://wakatime.com/share/@Andrew2077/a7e7e676-5d7c-4aa4-a516-682c1ddf7bdc.svg">
 
 
 <!-- ## 🏆 GitHub Trophies
@@ -36,7 +35,7 @@ I'm a biomedical engineering student (undergraduate). <br>I'm currently learning
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew2077&repo=Human-activity-recognition&theme=radical&show_owner=True)](https://github.com/Andrew/Human-activity-recognition) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew2077&repo=Human-activity-recognition&theme=radical&show_owner=True)](https://github.com/Andrew/Human-activity-recognition)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew2077&repo=Human-activity-recognition&theme=radical&show_owner=True&width=350px)](https://github.com/Andrew/Human-activity-recognition) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew2077&repo=Human-activity-recognition&theme=radical&show_owner=True)](https://github.com/Andrew/Human-activity-recognition)
 
 
 
