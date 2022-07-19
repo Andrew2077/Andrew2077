@@ -18,4 +18,17 @@
 
 <!-- github-readme-stats-self-ten.vercel.app -->
 
-![](<iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" frameBorder="0")]
+![]("https://giphy.com/embed/3oKIPnAiaMCws8nOsE")
+
+
+"https://wakatime.com/share/@Andrew2077/2b4c9d0b-adcf-4963-adcc-460ef95a6a13.svg"
+
+
+![Andrew's GitHub stats]("https://wakatime.com/share/@Andrew2077/2b4c9d0b-adcf-4963-adcc-460ef95a6a13.svg")
+
+![Link text Here]("https://wakatime.com/share/@Andrew2077/2b4c9d0b-adcf-4963-adcc-460ef95a6a13.svg")
+
+
+<img src= "https://wakatime.com/share/@Andrew2077/ffaccd89-9a8f-4f9b-b8bd-9ecbe41f5102.svg" >
+
+<img src="https://wakatime.com/share/@Andrew2077/a7e7e676-5d7c-4aa4-a516-682c1ddf7bdc.svg">
