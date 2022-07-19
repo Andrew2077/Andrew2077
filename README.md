@@ -2,10 +2,9 @@
 I'm a biomedical engineering student (undergraduate). <br>I'm currently learning different programming languages and different frameworks. <br>which are related to Data Science & Software-development & <br>I aspire to be a data scientist.
 
 <br>My goals are :<br>
- - Create My AI Assistant.<br>
- - Develop an Ai that can learn any game.
-<br>
-<br>
+ - Create My Personal AI Assistant.<br>
+ - Develop an Ai that can learn any game and many other tasks.<br>
+
 
 
 # 💻 Tech Stack:
@@ -32,9 +31,11 @@ I'm a biomedical engineering student (undergraduate). <br>I'm currently learning
 
 <br>
 <br>
-### ✍️ Top project  - Recent project
+
+## ✍️ Top project       -        Recent project
 
 <br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew2077&repo=Human-activity-recognition&theme=radical&show_owner=True)](https://github.com/Andrew/Human-activity-recognition) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew2077&repo=Human-activity-recognition&theme=radical&show_owner=True)](https://github.com/Andrew/Human-activity-recognition)
 
 
