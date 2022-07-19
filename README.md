@@ -27,10 +27,12 @@ I'm a biomedical engineering student (undergraduate). <br>I'm currently learning
         flex-direction: row;
     }
     .chart_lang{
-        flex: 0.5;
+        width: 25%
+
     }
     .chart_time{
-        flex: 0.5;
+        width: 25%;
+        margin-right: 10%;
     }
 
 </style>
