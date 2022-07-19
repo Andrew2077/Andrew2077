@@ -26,6 +26,9 @@
 
 <img src= "https://wakatime.com/share/@Andrew2077/ffaccd89-9a8f-4f9b-b8bd-9ecbe41f5102.svg" >
 
+<a href="https://wakatime.com/share/@Andrew2077/ffaccd89-9a8f-4f9b-b8bd-9ecbe41f5102.svg">
+    <img alt="Qries" src="https://wakatime.com/share/@Andrew2077/ffaccd89-9a8f-4f9b-b8bd-9ecbe41f5102.svg">
+
 <img src="https://wakatime.com/share/@Andrew2077/a7e7e676-5d7c-4aa4-a516-682c1ddf7bdc.svg" href = "https://wakatime.com/share/@Andrew2077/a7e7e676-5d7c-4aa4-a516-682c1ddf7bdc.svg">
 
 [![](/Icons/python.png)](https://www.python.org)

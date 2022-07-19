@@ -21,11 +21,11 @@ I'm a biomedical engineering student (undergraduate). <br>I'm currently learning
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew2077&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 
-<img src= "https://wakatime.com/share/@Andrew2077/ffaccd89-9a8f-4f9b-b8bd-9ecbe41f5102.svg" >
+<a href="https://wakatime.com/share/@Andrew2077/ffaccd89-9a8f-4f9b-b8bd-9ecbe41f5102.svg">
+    <img alt="Qries" src="https://wakatime.com/share/@Andrew2077/ffaccd89-9a8f-4f9b-b8bd-9ecbe41f5102.svg">
 
-
-<img src="https://wakatime.com/share/@Andrew2077/a7e7e676-5d7c-4aa4-a516-682c1ddf7bdc.svg" href = "https://wakatime.com/share/@Andrew2077/a7e7e676-5d7c-4aa4-a516-682c1ddf7bdc.svg">
-
+<a href="https://wakatime.com/share/@Andrew2077/a7e7e676-5d7c-4aa4-a516-682c1ddf7bdc.svg">
+    <img alt="Qries" src="https://wakatime.com/share/@Andrew2077/a7e7e676-5d7c-4aa4-a516-682c1ddf7bdc.svg">
 
 
 ## 🏆 GitHub Trophies
