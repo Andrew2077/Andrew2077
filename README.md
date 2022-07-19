@@ -26,13 +26,14 @@ I'm a biomedical engineering student (undergraduate). <br>I'm currently learning
         display: flex;
         flex-direction: row;
     }
-    .chart_lang{
-        width: 25%
-
-    }
     .chart_time{
-        width: 25%;
+        min-width: 350px;
+        width: 32%;
         margin-right: 10%;
+    }
+    .chart_lang{
+        min-width: 350px;
+        width: 32%
     }
 
 </style>
