@@ -21,29 +21,19 @@ I'm a biomedical engineering student (undergraduate). <br>I'm currently learning
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew2077&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 
-<style>
-    .inline_elements {
-        display: flex;
-        flex-direction: row;
-    }
-    .chart_time{
-        min-width: 350px;
-        width: 32%;
-        margin-right: 10%;
-    }
-    .chart_lang{
-        min-width: 350px;
-        width: 32%
-    }
 
-</style>
 
-<div class="inline_elements">
-    <div class = "chart_lang">
+<div style=" display: flex;
+            flex-direction: row;">
+    <div style = "  min-width: 350px;
+                    width: 32%;
+                    margin-right: 10%;">
         <a href="https://wakatime.com/share/@Andrew2077/ffaccd89-9a8f-4f9b-b8bd-9ecbe41f5102.svg">
             <img class="chart_lang_img" alt="Qries" src="https://wakatime.com/share/@Andrew2077/ffaccd89-9a8f-4f9b-b8bd-9ecbe41f5102.svg">
     </div>
-    <div class = "chart_time">
+    <div style=" min-width: 350px;
+                    width: 32%;
+                    margin-right: 10%;">
         <a href="https://wakatime.com/share/@Andrew2077/a7e7e676-5d7c-4aa4-a516-682c1ddf7bdc.svg">
             <img class="chart_time_img" alt="Qries" src="https://wakatime.com/share/@Andrew2077/a7e7e676-5d7c-4aa4-a516-682c1ddf7bdc.svg">
     </div>
