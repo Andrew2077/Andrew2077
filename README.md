@@ -23,31 +23,19 @@ I'm a biomedical engineering student (undergraduate). <br>I'm currently learning
 
 
 
-<div style=" display: flex;
-            flex-direction: row;">
-    <div style = "  min-width: 350px;
-                    width: 32%;
-                    margin-right: 10%;">
-        <a href="https://wakatime.com/share/@Andrew2077/ffaccd89-9a8f-4f9b-b8bd-9ecbe41f5102.svg">
-            <img class="chart_lang_img" alt="Qries" src="https://wakatime.com/share/@Andrew2077/ffaccd89-9a8f-4f9b-b8bd-9ecbe41f5102.svg">
-    </div>
-    <div style=" min-width: 350px;
-                    width: 32%;
-                    margin-right: 10%;">
-        <a href="https://wakatime.com/share/@Andrew2077/a7e7e676-5d7c-4aa4-a516-682c1ddf7bdc.svg">
-            <img class="chart_time_img" alt="Qries" src="https://wakatime.com/share/@Andrew2077/a7e7e676-5d7c-4aa4-a516-682c1ddf7bdc.svg">
-    </div>
-</div>
+<a href="https://wakatime.com/share/@Andrew2077/ffaccd89-9a8f-4f9b-b8bd-9ecbe41f5102.svg">
+            <img width = 450 src="https://wakatime.com/share/@Andrew2077/ffaccd89-9a8f-4f9b-b8bd-9ecbe41f5102.svg">
+
+<a href="https://wakatime.com/share/@Andrew2077/a7e7e676-5d7c-4aa4-a516-682c1ddf7bdc.svg">
+            <img width = 450 src="https://wakatime.com/share/@Andrew2077/a7e7e676-5d7c-4aa4-a516-682c1ddf7bdc.svg">
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Andrew2077&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Andrew2077&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Top project  - Recent project
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew2077&repo=Human-activity-recognition&theme=radical&show_owner=True)](https://github.com/Andrew/Human-activity-recognition) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew2077&repo=Human-activity-recognition&theme=radical&show_owner=True)](https://github.com/Andrew/Human-activity-recognition)
 
----
-[![](https://visitcount.itsvg.in/api?id=Andrew2077&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
