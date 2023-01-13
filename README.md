@@ -38,7 +38,7 @@ My Near Goals are :<br>
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew2077&repo=Human-activity-recognition&theme=radical&show_owner=True&width=350px)](https://github.com/Andrew/Human-activity-recognition) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew2077&repo=Cards_Game-BlackJack&theme=radical&show_owner=True)](https://github.com/Andrew2077/Cards_Game-BlackJack)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew2077&repo=Human-activity-recognition&theme=radical&show_owner=True&width=350px)](https://github.com/Andrew/Human-activity-recognition) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew2077&repo=Cards_Game-BlackJack&theme=radical&show_owner=True)](https://github.com/Andrew2077/Cards_Game-BlackJack) -->
 
 
 
