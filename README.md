@@ -3,8 +3,7 @@
 # 💫 About Me
 
 Biomedical engineering student, Machine Learning and also Data Science enthusiast, python developer unde the hood.
-<!--#profile views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrew2077&label=Profile%20views&color=0e75b6&style=flat" alt="andrew2077" /> </p>
+
 
 # Python Frameworks:-
 
@@ -91,3 +90,7 @@ Biomedical engineering student, Machine Learning and also Data Science enthusias
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew2077&repo=AirBnb-model&theme=radical&show_owner=True)](https://github.com/Andrew2077/AirBnb-model)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew2077&repo=Photo-editing-app-streamlit&theme=radical&show_owner=True)](https://github.com/Andrew2077/Photo-editing-app-streamlit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andrew2077&repo=Grad_project-Covid-pnemonia-detection&theme=radical&show_owner=True)](https://github.com/Andrew2077/Grad_project-Covid-pnemonia-detection)
+
+
+<!--#profile views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrew2077&label=Profile%20views&color=0e75b6&style=flat" alt="andrew2077" /> </p>
