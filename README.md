@@ -14,7 +14,7 @@ Biomedical engineering student, Machine Learning and also Data Science enthusias
 <!-- *Pytorch -->
 <a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="Icons/MLDL/pytorch.svg" alt="tensorflow" width="80" height="40"/> </a>
 <!-- *huggingface -->
-<a href="https://huggingface.co" target="_blank" rel="noreferrer"> <img src="Icons/MLDL/huggingface.png" alt="tensorflow" width="80" height="40"/> </a>
+<a href="https://huggingface.co" target="_blank" rel="noreferrer"> <img src="Icons/MLDL/hf.png" alt="tensorflow" width="140" height="40"/> </a>
 <!-- *SKlearn -->
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="tensorflow" width="60" height="40"/> </a>
 <!-- *openCV -->
