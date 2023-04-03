@@ -2,8 +2,7 @@
 
 # 💫 About Me
 
-Biomedical engineering student, Machine Learning and also Data Science enthusiast, python developer unde the hood.
-
+Biomedical engineering student, Machine Learning and also Data Science enthusiast, python developer under the hood.
 
 # Python Frameworks:-
 
