@@ -29,7 +29,7 @@ Biomedical engineering student, Machine Learning and also Data Science enthusias
 <!-- *Matplotlib -->
 <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="Icons/visualization/matplot.png" alt="tensorflow" width="120" height="40"/> </a>
 <!-- *seaborn -->
-<a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="Icons/visualization/seaborn.png" alt="tensorflow" width="120" height="40"/> </a>
+<a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="Icons/visualization/Seaborn.png" alt="tensorflow" width="120" height="40"/> </a>
 <!-- *plotly -->
 <a href="https://plotly.com" target="_blank" rel="noreferrer"> <img src="Icons/visualization/plotly.png" alt="tensorflow" width="120" height="40"/> 
 </a>
