@@ -4,6 +4,7 @@
 
 Biomedical engineering student, Machine Learning and also Data Science enthusiast, python developer under the hood.
 
+[![wakatime](https://wakatime.com/badge/user/43c7e7d3-1c86-42c9-b4bc-28803e9afac4.svg)](https://wakatime.com/@43c7e7d3-1c86-42c9-b4bc-28803e9afac4)
 # Python Frameworks:-
 
 ## ML/DL
