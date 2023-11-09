@@ -4,7 +4,7 @@
 
 Biomedical engineering student, Machine Learning and also Data Science enthusiast, python developer under the hood.
 
-[![wakatime](https://wakatime.com/badge/user/43c7e7d3-1c86-42c9-b4bc-28803e9afac4.svg)](https://wakatime.com/@43c7e7d3-1c86-42c9-b4bc-28803e9afac4)
+<!-- [![wakatime](https://wakatime.com/badge/user/43c7e7d3-1c86-42c9-b4bc-28803e9afac4.svg)](https://wakatime.com/@43c7e7d3-1c86-42c9-b4bc-28803e9afac4) -->
 # Python Frameworks:-
 
 ## ML/DL
@@ -71,7 +71,7 @@ Biomedical engineering student, Machine Learning and also Data Science enthusias
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew2077&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
-
+<!-- 
 ## wakaTime Stats - Visual Studio Code - only
 
 <a href="https://wakatime.com/share/@Andrew2077/ffaccd89-9a8f-4f9b-b8bd-9ecbe41f5102.svg">
@@ -80,7 +80,8 @@ Biomedical engineering student, Machine Learning and also Data Science enthusias
             <img width = 500 src="https://wakatime.com/share/@Andrew2077/a7e7e676-5d7c-4aa4-a516-682c1ddf7bdc.svg">
 <br>
 <br>
-
+-->
+            
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Andrew2077&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
